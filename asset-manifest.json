@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e7c9f3ee.css",
+    "main.js": "/portfolio/static/js/main.5cf0b430.js",
+    "static/media/img1.jpg": "/portfolio/static/media/img1.9a28d149c7b560b19d56.jpg",
+    "static/media/img2.jpg": "/portfolio/static/media/img2.e7345ef576053fdf115c.jpg",
+    "static/media/faisalabad.png": "/portfolio/static/media/faisalabad.7946a19747fa349ee2bb.png",
+    "static/media/buisness.png": "/portfolio/static/media/buisness.123ca05107389dcd2a23.png",
+    "static/media/marketing.png": "/portfolio/static/media/marketing.e7209710e1e72f838520.png",
+    "static/media/networking.png": "/portfolio/static/media/networking.ff33b727e352503319b9.png",
+    "static/media/designing.png": "/portfolio/static/media/designing.cfdab573c1469d8d3d1f.png",
+    "static/media/development.png": "/portfolio/static/media/development.55131acadea2ff038d24.png",
+    "static/media/photography.png": "/portfolio/static/media/photography.b7682af2e710791bd4f5.png",
+    "static/media/Image 25.png": "/portfolio/static/media/Image 25.03fd2db0237fea91e249.png",
+    "static/media/CardFaisalabad.png": "/portfolio/static/media/CardFaisalabad.897de492dfb865df6021.png",
+    "static/media/cart2.png": "/portfolio/static/media/cart2.8c6498c24e72d25e58aa.png",
+    "static/media/cart3.png": "/portfolio/static/media/cart3.cbf492b02478dba93a05.png",
+    "static/media/Image 27.png": "/portfolio/static/media/Image 27.9dd01b2d1b30c46452bc.png",
+    "static/media/cart-1.png": "/portfolio/static/media/cart-1.02973a221604a3a3093a.png",
+    "static/media/Image 24.png": "/portfolio/static/media/Image 24.1d658b244f5fba56e4c3.png",
+    "static/media/multan.png": "/portfolio/static/media/multan.1d658b244f5fba56e4c3.png",
+    "static/media/cart4.png": "/portfolio/static/media/cart4.ec98fd5493e940a68913.png",
+    "static/media/Theend.png": "/portfolio/static/media/Theend.c992a66d8efa06ad80a6.png",
+    "static/media/cart5.png": "/portfolio/static/media/cart5.7e3e3ae47304ac9371d1.png",
+    "static/media/Image 20.png": "/portfolio/static/media/Image 20.d79ec4b887fe60f1c5bc.png",
+    "static/media/islamabad.png": "/portfolio/static/media/islamabad.d79ec4b887fe60f1c5bc.png",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/Image 23.png": "/portfolio/static/media/Image 23.2683a127d93f283038fc.png",
+    "static/media/lahore.png": "/portfolio/static/media/lahore.2683a127d93f283038fc.png",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio/index.html",
+    "main.e7c9f3ee.css.map": "/portfolio/static/css/main.e7c9f3ee.css.map",
+    "main.5cf0b430.js.map": "/portfolio/static/js/main.5cf0b430.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7c9f3ee.css",
+    "static/js/main.5cf0b430.js"
+  ]
+}
